@@ -1,4 +1,4 @@
-# 🐍 Meus Estudos em Python | Data Science
+### 🐍 Meus Estudos em Python | Data Science
 
 📚 Repositório dedicado aos meus estudos em Python, com foco em **Data Science**.
 Aqui armazeno códigos, exercícios e anotações das minhas aulas.
@@ -11,7 +11,7 @@ Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 
 ---
 
-# 📝 Anotações Pessoais
+## 📝 Anotações Pessoais
 
 ```markdown
 🔥 Destaques

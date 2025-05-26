@@ -11,21 +11,7 @@ Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 
 ---
 
-# 🗂️ Estrutura do Projeto
-
-```bash
-/Estudos_python
-├── /condicionais          # Aulas sobre if/elif/else, try/except, loops
-├── /exercicios_gpt        # Exercícios propostos pelo ChatGPT
-├── /operadores            # Operadores aritméticos e concatenação
-├── /operadores_logicos    # AND, OR, NOT, IN
-├── /string                # Formatação, f-strings, manipulação
-├── /tipos                 # Tipos de dados e conversões
-└── /variaveis             # Variáveis, constantes e flags
-
---- 
-
-📝 Anotações Pessoais
+# 📝 Anotações Pessoais
 
 🔥 Destaques
 F-string - 
@@ -38,5 +24,25 @@ While -
 Try/Except - Não entendi direito, revisar!
 
 📌 Lembretes
-
 Revisar: Try e Except.
+
+🎯 Próximos Passos
+Aprender: listas e dicionários
+Introdução: a Pandas e NumPy
+Criar: um projeto simples de análise de dados
+
+---
+
+# 🗂️ Estrutura do Projeto
+
+```bash
+/Estudos_python
+├── /condicionais          # Aulas sobre if/elif/else, try/except, loops
+├── /exercicios_gpt        # Exercícios propostos pelo ChatGPT
+├── /operadores            # Operadores aritméticos e concatenação
+├── /operadores_logicos    # AND, OR, NOT, IN
+├── /string                # Formatação, f-strings, manipulação
+├── /tipos                 # Tipos de dados e conversões
+└── /variaveis             # Variáveis, constantes e flags
+
+---

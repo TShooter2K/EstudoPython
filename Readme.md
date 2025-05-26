@@ -6,13 +6,14 @@ Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Python PEP 8](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://peps.python.org/pep-0008/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-%23150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/github/license/seu-usuario/seu-repositorio)](LICENSE)
+[![License](https://img.shields.io/github/license/TShooter2K/EstudoPython)](LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)](https://github.com/seu-usuario/seu-repositorio/commits/main)
 
 ---
 
 # 📝 Anotações Pessoais
 
+```markdown
 🔥 Destaques
 F-string - 
 While - 

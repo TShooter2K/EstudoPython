@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false
+}

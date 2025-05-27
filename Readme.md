@@ -1,16 +1,15 @@
 # 🐍 Meus Estudos em Python | Data Science
 
-📚 Repositório dedicado aos meus estudos em Python, com foco em **Data Science**.
+📚 Repositório dedicado aos meus estudos em Python, com foco em **Data Science**.  
 Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Python PEP 8](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://peps.python.org/pep-0008/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-%23150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/TShooter2K/EstudoPython)](https://github.com/TShooter2K/EstudoPython/commits/main)
 
 ---
 
-# 🗂️ Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ```bash
 /Estudos_python
@@ -21,21 +20,3 @@ Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 ├── /string                # Formatação, f-strings, manipulação
 ├── /tipos                 # Tipos de dados e conversões
 └── /variaveis             # Variáveis, constantes e flags
-
---- 
-
-📝 Anotações Pessoais
-
-🔥 Destaques
-F-string - 
-While - 
-If/Elif/Else - 
-Try/Except - 
-
-❓ Dúvidas
-While - 
-Try/Except - Não entendi direito, revisar!
-
-📌 Lembretes
-
-Revisar: Try e Except.

@@ -1,4 +1,4 @@
-# 🐍 Meus Estudos em Python | Data Science
+# 🐍 **Meus Estudos em Python | Data Science**
 
 📚 Repositório dedicado aos meus estudos em Python, com foco em **Data Science**.  
 Aqui armazeno códigos, exercícios e anotações das minhas aulas.
@@ -9,14 +9,31 @@ Aqui armazeno códigos, exercícios e anotações das minhas aulas.
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 🗂️ **Estrutura do Projeto**
 
 ```bash
 /Estudos_python
 ├── /condicionais          # Aulas sobre if/elif/else, try/except, loops
 ├── /exercicios_gpt        # Exercícios propostos pelo ChatGPT
+├── /listas                # Listas e tuplas
 ├── /operadores            # Operadores aritméticos e concatenação
 ├── /operadores_logicos    # AND, OR, NOT, IN
 ├── /string                # Formatação, f-strings, manipulação
 ├── /tipos                 # Tipos de dados e conversões
 └── /variaveis             # Variáveis, constantes e flags
+```
+
+---
+
+## 📊 **Progresso Atual**
+
+```diff
+🧭 Roadmap
+Status: ✅ Concluído | ⏳ Em Progresso | ⬜ Pendente
+✅ Condicionais básicas (if/elif/else)  
+✅ Loops (while, for)  
+✅ Tratamento de erros (try/except)  
+⏳ Listas (listas, tuplas)
+⬜ Funções (def, return, args)  
+⬜ Listas e dicionários  
+⬜ Introdução a Pandas  
